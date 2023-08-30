@@ -1,7 +1,7 @@
 # JTeam
 El Buen Sabor
 
-# El Buen Sabor ![] Comida Rápida
+# El Buen Sabor - Comida Rápida
 
 El Buen Sabor es un local de comida rápida, ubicado en la ciudad de Mendoza cuya especialidad son las hamburguesas, aunque también ofrecemos pizzas, desayunos, postres y opciones vegetarianas. A través de nuestra página web, se permite retirar el pedido por el local o por delivery. Nuestro objetivo es brindarles un buen servicio y atención, para que estén dispuestos a desafiar sus paladares.
 
